@@ -4,7 +4,7 @@
 
 Jeff Studio Scene 将地形、一键生成、素材、铺设、角色、镜头、环境和音乐集中在编辑器中，提供中文／英文界面。
 
-[下载 0.4.7.1](https://github.com/Smidle/jeff-studio-scene/releases/tag/v0.4.7.1) · [中文说明书](manual/zh/index.md) · [English Manual](manual/en/index.md) · [更新说明](manual/zh/release_notes.md) · [反馈问题](https://github.com/Smidle/jeff-studio-scene/issues)
+[下载 0.4.7.1](https://github.com/jeffstudio-dev/jeff-studio-scene/releases/tag/v0.4.7.1) · [中文说明书](manual/zh/index.md) · [English Manual](manual/en/index.md) · [更新说明](manual/zh/release_notes.md) · [反馈问题](https://github.com/jeffstudio-dev/jeff-studio-scene/issues)
 
 ![内置建筑工作台](manual/images/046_v5_workbench_zh.png)
 
@@ -28,7 +28,7 @@ Jeff Studio Scene 将地形、一键生成、素材、铺设、角色、镜头�
 
 ## 安装
 
-1. 在 [Release](https://github.com/Smidle/jeff-studio-scene/releases/tag/v0.4.7.1) 下载 `01_HD2D_0.4.7.1_Plugin_Manual.zip`。
+1. 在 [Release](https://github.com/jeffstudio-dev/jeff-studio-scene/releases/tag/v0.4.7.1) 下载 `01_HD2D_0.4.7.1_Plugin_Manual.zip`。
 2. 关闭 Godot 并备份旧插件，把解压后的 `addons/hd2d_scene_tools` 放入自己的 Godot 工程。
 3. 等待资源导入，在 **项目 → 项目设置 → 插件** 启用 **Jeff Studio Scene**。
 4. 点击 **新建地图** 开始制作；说明书留在工程外，浏览器打开 `START_HERE.html`。
